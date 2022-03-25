@@ -51,6 +51,14 @@
 <Br>
   
 [![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusRubens&show_icons=true&theme=merko)](https://github.com/ViniciusRubens/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRubens&layout=compact&theme=merko)](https://github.com/ViniciusRubens/github-readme-stats)
+  
+<Br>
+<hr>
+<Br>
+<h1>Thank You! 🤵 </h1>
+<Br>
+
+------
 
   
 Credit: [Vinicius Rubens](https://github.com/ViniciusRubens)
