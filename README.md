@@ -6,7 +6,7 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: "I'm majoring in Electrical Engineering.
+- 🏫: I'm majoring in Electrical Engineering.
 - 🔭: I’m currently working on many small ML and Data Sciecne projects.
 - 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
