@@ -20,7 +20,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/vinicius-rubens/" target="blank"><img align="center" src="https://img.shields.io/badge/-Vinicius%20Rubens-bluestyle=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:viniciusrubensoliveira@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-viniciusrubensoliveira%40gmail.com-redstyle=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/ViniciusRubens" target="blank"><img align="center" src="https://img.shields.io/badge/-Vinicius%20Rubens-%09%23000000style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vinicius-rubens/" target="blank"><img align="center" src="https://img.shields.io/badge/-Vinicius%20Rubens-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:viniciusrubensoliveira@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-viniciusrubensoliveira%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/ViniciusRubens" target="blank"><img align="center" src="https://img.shields.io/badge/-Vinicius%20Rubens-%09%23000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
