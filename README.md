@@ -33,7 +33,7 @@
 |---|---|---|---|
 ![](https://img.shields.io/badge/Data%20Analysis-red?style=for-the-badge)|![](https://img.shields.io/badge/DA-Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/DA-Dashboards-red?style=for-the-badge)|![](https://img.shields.io/badge/DA-Statistics-red?style=for-the-badge)|
 |![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|
-|![](https://img.shields.io/badge/API's%20Development!-yellow?style=for-the-badge)|![](https://img.shields.io/badge/API's-Front%20-end-yellow?style=for-the-badge)|![](https://img.shields.io/badge/API's-Back%20-end-yellow?style=for-the-badge)|![](https://img.shields.io/badge/API's-Containerização-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/API's%20Development!-yellow?style=for-the-badge)|![](https://img.shields.io/badge/API's-Frontend-yellow?style=for-the-badge)|![](https://img.shields.io/badge/API's-Backend-yellow?style=for-the-badge)|![](https://img.shields.io/badge/API's-Containerização-yellow?style=for-the-badge)|
   
 <Br>
 <hr>
