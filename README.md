@@ -33,15 +33,7 @@
 |---|---|---|---|
 ![](https://img.shields.io/badge/Data%20Analysis-red?style=for-the-badge)|![](https://img.shields.io/badge/DA-Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/DA-Dashboards-red?style=for-the-badge)|![](https://img.shields.io/badge/DA-Statistics-red?style=for-the-badge)|
 |![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|
-|![](https://img.shields.io/badge/API's%20Development!-yellow?style=for-the-badge)|![](https://img.shields.io/badge/API's-Front%20-%20end-yellow?style=for-the-badge)|![](https://img.shields.io/badge/API's-Back%20-%20end-yellow?style=for-the-badge)|![](https://img.shields.io/badge/API's-Containerização-yellow?style=for-the-badge)|
-
-| Coluna 1 | Coluna 2 | Coluna 3 | Coluna 4 | Coluna 5 |
-|----------|----------|----------|----------|----------|
-| Linha 1, Coluna 1 | Linha 1, Coluna 2 | Linha 1, Coluna 3 | Linha 1, Coluna 4 | Linha 1, Coluna 5 |
-| Linha 2, Coluna 1 | Linha 2, Coluna 2 | Linha 2, Coluna 3 | Linha 2, Coluna 4 | Linha 2, Coluna 5 |
-| Linha 3, Coluna 1 | Linha 3, Coluna 2 | Linha 3, Coluna 3 | Linha 3, Coluna 4 | Linha 3, Coluna 5 |
-| Linha 4, Coluna 1 | Linha 4, Coluna 2 | Linha 4, Coluna 3 | Linha 4, Coluna 4 | Linha 4, Coluna 5 |
-
+|![](https://img.shields.io/badge/API's%20Development!-yellow?style=for-the-badge)|![](https://img.shields.io/badge/API's-Front%20-end-yellow?style=for-the-badge)|![](https://img.shields.io/badge/API's-Back%20-end-yellow?style=for-the-badge)|![](https://img.shields.io/badge/API's-Containerização-yellow?style=for-the-badge)|
   
 <Br>
 <hr>
