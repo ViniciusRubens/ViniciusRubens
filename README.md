@@ -56,7 +56,7 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusRubens&show_icons=true&theme=merko)](https://github.com/ViniciusRubens/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRubens&layout=compact&theme=merko)](https://github.com/ViniciusRubens/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=ViniciusRubens&show_icons=true&theme=merko)](https://github.com/ViniciusRubens/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRubens&layout=compact&theme=merko)](https://github.com/ViniciusRubens/github-readme-stats)
   
 <Br>
 <hr>
@@ -68,4 +68,4 @@
 
   
 Credit: [Vinicius Rubens](https://github.com/ViniciusRubens)
-Last Edited on: 25/03/2022
+Last Edited on: 02/12/2025
