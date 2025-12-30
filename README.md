@@ -10,8 +10,8 @@
 - 🌎: I have a web <a href="https://viniciusrubens.github.io/portfolio/">portfolio<a>.
 - 🔭: I’m currently working on many ML and Data Sciecne projects.
 - 🌱: I’m currently learning about LLMs and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+- 🤔: I’m looking for help and advices with anything I am currently learning! 😅
+- 💬: Ask me about Data Analysis, Visualization, Robotics and Machine Learning algorithms. 📊📈🤖🧠
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I like Brazilian Jiu-jitsu, movies and travels! ⚽🎥🍿
   
